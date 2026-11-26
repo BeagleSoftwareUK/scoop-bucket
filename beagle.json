@@ -1,0 +1,15 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/BeagleSoftwareUK/beagle-cli/releases/download/v0.1.2/beagle_windows_amd64.zip",
+            "bin": [
+                "beagle.exe"
+            ],
+            "hash": "f9f07bb7e92280dda2bd2543fc1df43bee3d90d82c3316acee407609a37693ad"
+        }
+    },
+    "homepage": "https://beaglecrm.uk",
+    "license": "MIT",
+    "description": "Beagle CRM from the terminal"
+}
