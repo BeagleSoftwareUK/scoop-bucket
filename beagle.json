@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BeagleSoftwareUK/beagle-cli/releases/download/v0.2.0/beagle_windows_amd64.zip",
+            "url": "https://github.com/BeagleSoftwareUK/beagle-cli/releases/download/v0.3.0/beagle_windows_amd64.zip",
             "bin": [
                 "beagle.exe"
             ],
-            "hash": "95f2342b4c97d8c1bb3aeb9fdccdb88d3d8bd204657fcb1d0827cbdd679a0d89"
+            "hash": "84dfd62f958d115b91776e3944bbf55f2975ead5154aec9528df83d8874471e1"
         }
     },
     "homepage": "https://beaglecrm.uk",
